@@ -1,4 +1,4 @@
-### Student ID:22018083
+
 
 ### REFLECTION REPORT
 Working on a project that required me to Crop, Cleanse, and Refactor Data in Excel Using Pandas was the task at hand. This was the project's first step, which involved manipulating large datasets to make them usable for further analysis.
