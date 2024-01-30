@@ -1,10 +1,9 @@
 ### 
-### Student ID:22018083
 
 
 # NoSQL Data Modeling for Bristol Air Quality Data
 
-For the purpose of this assignment, I decide to choose MongoDB platform for my nosql modelling of the data.
+For the purpose of this project, I decide to choose MongoDB platform for my nosql modelling of the data.
 
 MongoDB is an open-source database developed by MongoDB, Inc. MongoDB stores data in JSON-like documents that may have different structures. Related information is stored together and you can quickly access your queries via the MongoDB query language. MongoDB uses a dynamic schema. That is, you can create a record without first defining a structure such as the type of field or its value. You can change the structure of a record (called a document) simply by adding new fields or deleting existing fields [1]. MongoDB is used  to represent hierarchical relationships and easily store arrays and other more complex structures. Documents in a collection do not have to have the same set of fields, and data denormalization  is common. MongoDB is built with high availability and scalability in mind and includes out-of-the-box replication and automatic sharding.
 
